@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akinsola-Sky
 - 👀 I’m interested in learning new things related to tech
-- 🌱 I’m currently learning product desighn
-- 💞️ I’m looking to collaborate on web development
+- 🌱 I’m currently building my capacity in cybersecurity
+- 💞️ I’m looking to collaborate on web development and security
 - 📫 How to reach me akinsolaemmanuel603@gmail.com
 
 <!---
